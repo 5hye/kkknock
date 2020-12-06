@@ -1,0 +1,28 @@
+.circle-container
+{width: 1920px;
+height: 1080px;;
+background-color:#d775fc;(7, 2, 2);
+top:0px; left:0px; z-index:-10px; position:absolute;}
+
+.circle
+{width: 500px;
+ height: 500px;
+ border-radius: 50%;
+ background-color:black;
+ position: absolute;}
+
+ .varr
+ {top:300px; left:1000px; z-index: 20px; position:absolute;}
+
+ .varrs
+ {top:0px; left:0px; z-index: 30px; position:absolute;height: 99%; width: 99%;}
+ 
+ .varrrs
+ {top:0px; left:0px; z-index: 10px; position:absolute;}
+
+ .varrss
+ {top:95px; left:-15px; z-index: 5px; position:absolute;height: 70%; width: 95%;}
+
+ .small
+ {width: 1920px;
+    height: 1080px;;}
